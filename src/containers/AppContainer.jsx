@@ -1,5 +1,7 @@
+import HomeScreenConatiner from "./screens/HomeScreenContainer";
+
 const AppContainer = () => {
-    return <div>AppContainer</div>
+    return <HomeScreenConatiner />
 }
 
 export default AppContainer;
